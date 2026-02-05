@@ -1,0 +1,10 @@
+sources:
+  - name: demo_src
+    description: схема авиаперевозок
+    tables:
+      - name: airplanes
+        description: имена судов
+      - name: airports
+        description: имена аэропортов
+      - name: seats
+        description: посадочные места в самолете
